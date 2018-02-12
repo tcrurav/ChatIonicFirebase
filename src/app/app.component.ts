@@ -8,12 +8,12 @@ import { HomePage } from '../pages/home/home';
 import * as firebase from 'firebase';
 
 var config = {
-  apiKey: "AIzaSyBGHJkbNnaIDLqcmaip6pWKqUCoqEkF4FA",
-  authDomain: "paralnd-25cf6.firebaseapp.com",
-  databaseURL: "https://paralnd-25cf6.firebaseio.com",
-  projectId: "paralnd-25cf6",
-  storageBucket: "paralnd-25cf6.appspot.com",
-  messagingSenderId: "471013716354"
+  apiKey: "your apiKey",
+  authDomain: "your authDomain",
+  databaseURL: "your databaseURL",
+  projectId: "your projectId",
+  storageBucket: "your storageBucket",
+  messagingSenderId: "your messagingSenderId"
 };
 
 @Component({
